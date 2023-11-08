@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Health statements</string>
+    <string name="hint_edit_text_name">enter your name</string>
+    <string name="hint_edit_text_surname">enter your surname</string>
+    <string name="hint_edit_text_age">enter your age</string>
+    <string name="text_button_delete">delete all</string>
+    <string name="text_button_add_one">add to database</string>
+    <string name="text_button_get">get all</string>
+</resources>
